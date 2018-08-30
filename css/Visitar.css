@@ -1,0 +1,48 @@
+* {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+}
+
+body {
+	background-color: #FFFF66;
+}
+
+/*-----------------------------------CABECERA-----------------------------*/
+
+#cabecera {
+	height:67px;
+	background-color:blue;
+	margin-bottom:4px;
+	text-align:center;
+	color:red;
+	font-weight:800;
+	font-size:1.5em;
+	font-family:Blackadder ITC; 
+	border-top-left-radius:90px;
+	border-top-right-radius:90px;
+	border-bottom-left-radius:90px;
+	border-bottom-right-radius:90px;
+}
+
+/*-----------------------------------Texto-----------------------------*/
+
+
+#texto {
+	margin-top:60px;
+}
+
+
+#texto a {
+	display:block;	
+	text-align:center;
+	font-size:1.0em;
+	margin-top:60px;
+}
+
+
+
+
+
+
+
